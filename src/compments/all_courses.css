@@ -1,0 +1,27 @@
+.all_course .card{
+    width: 20%;
+     
+    margin-left:  4%;
+    
+   
+}
+.section_btn button{
+    color: black;
+    background: white;
+    border: 1px solid black;
+    cursor: pointer;
+    margin-left: 5%;
+    font-size: large;
+    height: 40px;
+    font-weight: bold;
+}
+.section_btn button:hover {
+    background-color: gray;
+  }
+  
+.all_course{
+  display: flex;
+  flex-wrap: wrap;
+  flex: 1;
+    
+ }
